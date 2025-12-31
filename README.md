@@ -1,2 +1,12 @@
-# CS231n-Assignment_1
-Implemented core ML and deep learning algorithms from scratch using NumPy, including Linear SVM, Softmax classifier, and a Two-layer Neural Network. Focused on understanding forward passes, loss functions, backpropagation, and optimization without relying on high-level frameworks.
+# CS231n Assignment 1
+
+This repository contains my solutions for CS231n Assignment 1.
+
+## Topics Covered
+- k-Nearest Neighbors
+- Support Vector Machines
+- Softmax Classifier
+- Loss Functions and Backpropagation
+
+## Notes
+All models are implemented from scratch using NumPy as part of the coursework.
